@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"CPQ 1.C": "cpp",
+			"CPQ6.C": "cpp",
+			"8THMARCHSECONDPRACTICE.C": "cpp",
+			"MOREFUNCTIONSONFILEIO9THMARCH.C": "cpp"
+		}
+	}
+}
